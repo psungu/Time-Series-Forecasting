@@ -1,2 +1,2 @@
-# Time-Series-Forecasting-
+# Time-Series-Forecasting
 Traditional Methods 
